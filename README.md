@@ -22,7 +22,7 @@ I am a 2023 graduate of Panimalar Engineering College with a core in Computer Sc
 
 ---
 
-###📕 **Latest Blog Posts**
+📕 **Latest Blog Posts**
 
 
 https://cipherschools.com/blog/tesla-and-artificial-intelligence
