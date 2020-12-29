@@ -1,6 +1,8 @@
 ![Innovate and Redefine](https://github.com/tharunc/tharunc/blob/main/assets/temp.gif)
 
-# Tharun C <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# This is Tharun C <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+
+## Who am I ?
 
 This is Tharun, and I am an Undergraduate pursuing my Bachelor of Engineering in Computer Science. I am an ardent learner of Languages and frameworks like Java and Flutter.
 Being an Engineer by day and a Writer at Night, I flounder flawlessly towards Perfection. You can check out some of my purest works at https://cipherschools.com/blogs.
