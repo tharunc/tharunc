@@ -7,9 +7,15 @@ Being an Engineer by day and a Writer at Night, I flounder flawlessly towards Pe
 
 I am a 2023 graduate of Panimalar Engineering College with a core in Computer Science Engineering. My academic background have embraced the importance of applying classical strategies towards modern - day applications. With a spirit in Software amalgamated with an ardour in Computer Hardware, my rapture for Computers have always been significantly substantial. A sheer sense of diligence towards Flutter and Machine Learning will be a zest which is to be inclined on.
 
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+
+
 
 
 ## Skills  
+
 
 
 - 🌱 I’m currently learning from the Internet 
