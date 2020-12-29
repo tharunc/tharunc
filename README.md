@@ -7,10 +7,8 @@ Being an Engineer by day and a Writer at Night, I flounder flawlessly towards Pe
 
 
 ## Skills  
-* JAVA 
-* FLUTTER 
-* PYTHON 
-* C
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tharunc)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://cipherschools.com/blogs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tharunc/)  
+
 
 - 🌱 I’m currently learning from the Internet 
 
