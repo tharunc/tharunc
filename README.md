@@ -36,5 +36,14 @@ I am a 2023 graduate of Panimalar Engineering College with a core in Computer Sc
 
 
 
+
+
+
+
+
+
+
+
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tharunc)](https://github.com/anuraghazra/github-readme-stats)
 
