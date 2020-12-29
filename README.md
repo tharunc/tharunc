@@ -13,10 +13,13 @@ I am a 2023 graduate of Panimalar Engineering College with a core in Computer Sc
 - 👯 I’m looking to collaborate with other content creators
 - 🥅  Goals: Contribute significantly to Open Source projects
 
+---
 
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+
+---
 
 
 ### Languages and Tools:
