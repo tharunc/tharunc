@@ -22,6 +22,15 @@ I am a 2023 graduate of Panimalar Engineering College with a core in Computer Sc
 
 ---
 
+###📕 **Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+
+
+<!-- BLOG-POST-LIST:END -->
+
+
+---
+
 
 ### Languages and Tools:
 
