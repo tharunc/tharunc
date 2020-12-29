@@ -1,7 +1,7 @@
 ### Hello there 👋
 
-#### Design and Development
-![Design and Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+![Design and Development](https://github.com/tharunc/tharunc/tree/main/assets/giff.gif)
 
 This is Tharun, and I am an Undergraduate pursuing my Bachelor of Engineering in Computer Science. I am an ardent learner of Languages and frameworks like Java and Flutter.
 Being an Engineer by day and a Writer at Night, I flounder flawlessly towards Perfection. You can check out some of my purest works at https://cipherschools.com/blogs.
