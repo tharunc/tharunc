@@ -1,4 +1,4 @@
-![Innovate and Redefine](https://github.com/tharunc/tharunc/blob/main/assets/giff.gif)
+![Innovate and Redefine](https://github.com/tharunc/tharunc/blob/main/assets/temp.gif)
 
 # Tharun C
 
