@@ -38,7 +38,13 @@ https://cipherschools.com/blog/skills-to-be-learnt-in-2020
 
 
 ### Languages and Tools:
+(https://github.com/tharunc/tharunc/blob/main/assets/Python.png)
+(https://github.com/tharunc/tharunc/blob/main/assets/Flutter.png)
+(https://github.com/tharunc/tharunc/blob/main/assets/JAVA.png)
+(https://github.com/tharunc/tharunc/blob/main/assets/C.png)
 
+
+---
 
 
 
