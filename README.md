@@ -12,6 +12,7 @@ I am a 2023 graduate of Panimalar Engineering College with a core in Computer Sc
 - 📫 How to reach me: tharunc17@gmail.com 📩
 - 👯 I’m looking to collaborate with other content creators
 - 🥅  Goals: Contribute significantly to Open Source projects
+- 🌱 I’m currently learning from the Internet 
 
 ---
 
@@ -29,7 +30,6 @@ I am a 2023 graduate of Panimalar Engineering College with a core in Computer Sc
 
 
 
-- 🌱 I’m currently learning from the Internet 
 
 
 ## KNOW ABOUT ME
