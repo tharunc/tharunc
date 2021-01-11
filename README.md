@@ -50,7 +50,7 @@ src="https://flutter.dev/images/catalog-widget-placeholder.png" alt="flutter" wi
 
 
 
-## KNOW ABOUT ME
+## KNOW ABOUT ME!!
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tharunc)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://cipherschools.com/blogs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tharunc/)  
